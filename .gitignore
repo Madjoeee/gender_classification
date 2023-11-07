@@ -26,6 +26,6 @@ yarn-error.log*
 
 # Utils
 dlib-19.24.1-cp311-cp311-win_amd64.whl
-utils
-uploads
-flaskServer
+/utils
+/uploads
+/flaskServer
