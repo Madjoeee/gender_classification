@@ -9,6 +9,7 @@ In this Project there are two used model :
 ## How to use deploy
 - Clone git
 - Make sure already install Node.Js 
+- Create react app with `npx create-react-app <appName>`
 - Install python venv under `src/server` with `python -m venv <envName>` in this project, the env named 'Server'
 - Install the required packages for python in `requirement.txt`. For dlib follow [this instructions](https://www.youtube.com/watch?v=9zeb902f98s)
 - Run react server with `npm run start`
